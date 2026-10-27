@@ -1,0 +1,18 @@
+{
+  "enabled": true,
+  "force_update": false,
+  "credit": "MR. NoOB",
+
+  "title": "Update Available!",
+  "subtitle": "[YT NEW Vanced • v5.6.80.504 → v5.6.80.508]",
+
+  "message": "This version is outdated and will stop working very soon!",
+  "premium_text": "All premium mod features are fully included in the new version!",
+  "update_text": "Click \"Update Now\" to get the latest version from our official Telegram channel.",
+
+  "whats_new_title": "What's New",
+  "whats_new": "Premium features unlocked.",
+
+  "update_url": "https://t.me/platinummodsofficial",
+  "help_url": "https://t.me/platinummodsofficial"
+}
